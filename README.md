@@ -44,5 +44,5 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasalvi23&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkasalvi23&theme=tokyonight&hide_border=true" alt="GitHub contribution stats" />
 </div>
